@@ -1,6 +1,7 @@
 etc/*
 Include/*
 Lib/*
-pyenv.cfg
+pyvenv.cfg
 Scripts/*
 share/*
+.ipynb_checkpoints/*
